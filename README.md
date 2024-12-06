@@ -1,0 +1,1 @@
+# Oszcz-dzacz-generator-offline.
